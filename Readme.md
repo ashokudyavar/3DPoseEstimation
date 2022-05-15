@@ -47,3 +47,5 @@ Step 1:
 <p align ="center">Iter 2  </p>
 <img height = 240 width = 500 src="https://user-images.githubusercontent.com/34507375/168488704-28125c25-ad1f-4202-800c-0585ac76b8d9.png">
 <p align ="left">Monitor the reprojection error in matchIter.py. Pose with the minimum error is the best pose </p>
+<p align ="left">Further refinement is possible using Chamfer matching or other image registration techniques </p>
+
