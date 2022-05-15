@@ -43,7 +43,7 @@ Step 1:
 <p align ="center">First guess with the reprojection of sampled points of the original mesh</p>
 <img height = 240 width = 500 src="https://user-images.githubusercontent.com/34507375/168488597-5cd45ea7-eef9-42f9-bf70-0bd537837790.png">
 <p align ="center">Iter 1  </p>
-<img height = 240 width = 500 src="https://user-images.githubusercontent.com/34507375/168488704-28125c25-ad1f-4202-800c-0585ac76b8d9.png">
-<p align ="center">Iter 2  </p>
 <img height = 240 width = 500 src="https://user-images.githubusercontent.com/34507375/168488705-06717ea9-a7f7-464c-9526-118111b503fb.png">
+<p align ="center">Iter 2  </p>
+<img height = 240 width = 500 src="https://user-images.githubusercontent.com/34507375/168488704-28125c25-ad1f-4202-800c-0585ac76b8d9.png">
 <p align ="left">Monitor the reprojection error in matchIter.py. Pose with the minimum error is the best pose </p>
